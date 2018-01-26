@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyZomato</string>
+    <string name="server_client_id">242588784884-h78n8qpf1709056aqhl7srqvoj4lhtfp.apps.googleusercontent.com</string>
+    <string name="signin_fmt">Sign in as : %s </string>
+</resources>
